@@ -1,4 +1,10 @@
-# generator-fiddle [![Build Status](https://secure.travis-ci.org/behrangsa/generator-fiddle.png?branch=master)](https://travis-ci.org/behrangsa/generator-fiddle)
+# generator-fiddle 
+
+[![Build Status](https://secure.travis-ci.org/behrangsa/generator-fiddle.png?branch=master)](https://travis-ci.org/behrangsa/generator-fiddle) 
+[![Dependency Status](https://david-dm.org/behrangsa/generator-fiddle.svg)](https://david-dm.org/behrangsa/generator-fiddle)
+[![](https://img.shields.io/npm/dt/generator-fiddle.svg)](https://www.npmjs.com/package/generator-fiddle)
+
+[![NPM](https://nodei.co/npm/generator-fiddle.png?downloads=true&downloadRank=true)](https://nodei.co/npm/generator-fiddle/)
 
 A [Yeoman](http://yeoman.io) generator for creating a local Web fiddling environment.
 
